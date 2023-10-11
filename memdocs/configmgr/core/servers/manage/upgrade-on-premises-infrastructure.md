@@ -82,6 +82,8 @@ Use the steps in this section for any of the following upgrade scenarios:
 #### After upgrade
 
 - Make sure Windows Defender is enabled, set for automatic start, and running.
+  
+- Install the latest Cumulative Update for the OS.
 
 - Make sure the following Configuration Manager services are running:
 
